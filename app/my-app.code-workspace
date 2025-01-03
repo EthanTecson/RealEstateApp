@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "my-app",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../realestate-app_assets-constants/assets"
+		}
+	],
+	"settings": {}
+}
